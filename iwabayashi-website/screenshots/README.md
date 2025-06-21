@@ -21,21 +21,7 @@
 
 ### コンテンツ管理システム
 - `cms-content-editor.png` - Netlify CMSビジュアルエディタインターフェース
-- `cms-dashboard-overview.png` - コンテンツ概要付きCMSダッシュボード
-- `cms-media-library.png` - メディア管理インターフェース
-- `cms-workflow-approval.png` - コンテンツ承認ワークフロー
 
-### 技術的実装
-- `lighthouse-performance-scores.png` - パフォーマンス監査結果
-- `responsive-breakpoints.png` - 異なるスクリーンサイズでのデザイン
-- `accessibility-features.png` - WCAG準拠実証
-- `seo-optimization.png` - メタタグと構造化データプレビュー
-
-### デプロイメント・インフラストラクチャ
-- `github-actions-pipeline.png` - CI/CDパイプライン実行
-- `server-monitoring-dashboard.png` - インフラストラクチャ監視インターフェース
-- `ssl-certificate-status.png` - セキュリティ証明書検証
-- `deployment-success-notification.png` - 自動デプロイメント確認
 
 ## 📋 スクリーンショットガイドライン
 
