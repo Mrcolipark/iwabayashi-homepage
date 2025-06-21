@@ -7,7 +7,7 @@
 ---
 
 ## 🌍 Language / 言語 / 语言
-**🇯🇵 日本語** | **🇺🇸 [English](./README.md)** | **🇨🇳 中文**
+**🇯🇵 日本語** | **🇺🇸 English** | **🇨🇳 中文**
 
 ---
 
@@ -15,7 +15,7 @@
 
 React、TypeScript、多言語対応ウェブアプリケーションを専門とする**フルスタック開発者**です。現在、ByteDance JapanでSearch Model Data QA Analystとして勤務しており、京都大学大学院情報学研究科の修士号を取得しています。
 
-**プロフェッショナル実績：** [岩林株式会社](https://iwabayashi.com)のリード開発者として、コンセプトから本番環境まで30日間で完全なエンタープライズウェブサイトを納品しました。
+**プロフェッショナル実績：** [岩林株式会社](https://iwabayashi.com)の開発者として、コンセプトから本番環境まで30日間で完全なエンタープライズウェブサイトを納品しました。
 
 ### 🎯 技術的専門分野
 - **フロントエンド：** React 18、TypeScript、モダンCSS、レスポンシブデザイン
@@ -44,7 +44,7 @@ React、TypeScript、多言語対応ウェブアプリケーションを専門�
 ### 技術実装
 ```
 フロントエンド: React 18 + TypeScript + Tailwind CSS
-CMS: Git統合されたNetlify CMS
+CMS: Git統合されたCMS
 インフラ: Linuxサーバー + Nginx + Let's Encrypt SSL
 デプロイメント: GitHub Actions自動化パイプライン
 メール: カスタムドメイン付きZoho Mail
@@ -131,5 +131,5 @@ CMS: Git統合されたNetlify CMS
 ---
 
 **🔧 技術スタック専門知識：** React • TypeScript • Node.js • Linux • CI/CD • 多言語開発  
-**🌍 言語：** 日本語（ネイティブ） • 英語（ビジネス） • 中国語（会話）  
+**🌍 言語：** 日本語（ビジネス） • 英語（ビジネス） • 中国語（ネイティブ）  
 **📍 所在地：** 日本 • 世界中でリモート対応可能
