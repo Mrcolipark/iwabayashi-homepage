@@ -15,7 +15,7 @@
 
 **Full-Stack Developer** specializing in React, TypeScript, and multilingual web applications. Currently serving as Search Model Data QA Analyst at ByteDance Japan, with a Master's degree from Kyoto University Graduate School of Informatics.
 
-**Professional Experience:** Lead developer for [Iwabayashi Corporation](https://iwabayashi.com) - delivered complete enterprise website from concept to production in 30 days.
+**Professional Experience:** Developer for [Iwabayashi Corporation](https://iwabayashi.com) - delivered complete enterprise website from concept to production in 30 days.
 
 ### 🎯 Technical Specialization
 - **Frontend:** React 18, TypeScript, Modern CSS, Responsive Design
