@@ -131,5 +131,5 @@ Ready to discuss your next web project? I specialize in:
 ---
 
 **🔧 Tech Stack Expertise:** React • TypeScript • Node.js • Linux • CI/CD • Multilingual Development  
-**🌍 Languages:** Japanese (Native) • English (Business) • Chinese (Conversational)  
+**🌍 Languages:** Japanese (Business) • English (Business) • Chinese (Native)  
 **📍 Location:** Japan • Remote-friendly worldwide
