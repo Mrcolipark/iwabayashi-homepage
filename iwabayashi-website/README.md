@@ -8,7 +8,7 @@
 
 ## 🌍 Language / 言語
 **日本語:** このドキュメントは日本語版です  
-**English:** [English version](./README.md)  
+**English:** [English version](./README.en.md)  
 
 ---
 
